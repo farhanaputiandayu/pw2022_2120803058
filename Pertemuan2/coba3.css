@@ -1,0 +1,24 @@
+body {
+  font-family: arial;
+}
+
+/* h1,
+p {
+  font-style: italic;
+}
+
+div p {
+  color: silver;
+  font-style: italic;
+}
+#Judul {
+  font-size: 50px;
+  color: red;
+}*/
+.twitter {
+  color: skyblue;
+  text-decoration: underline;
+}
+
+/* satu html bisa banyak kelas sedangkan id
+hanya boleh satu di setiap elemen html */
